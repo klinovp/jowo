@@ -1,0 +1,23 @@
+<div id="menu-wrapper" class="container">
+    <nav id="main-menu" role="navigation" class="sixteen columns alpha omega">
+        <div class="menu-navigation-container">
+            <ul class="menu">
+                {% for menu in site.data.menu %}
+                    {% assign menuurl = menu.path | append: 'index.html' %}
+                    <li class="{% if forloop.first %}first {% elsif forloop.last%}last {% endif %}{% if menu.children != null %}expanded{% else %}leaf{% endif %}">
+                        <a href="{{ site.url }}{{ menu.path }}" {% if page.url == menuurl %}class="active"{% endif %}>{{ menu.label }}</a>
+                        {% if menu.children != null %}
+                            <ul class="menu">
+                            {% for submenu in menu.children %}
+                                <li class="{% if forloop.first %}first {% elsif forloop.last%}last {% endif %}leaf">
+                                    <a href="{{ site.url }}{{ submenu.path}}" {% if page.path contains submenu.path %}class="active"{% endif %}>{{ submenu.label }}</a>
+                                </li>
+                            {% endfor %}
+                            </ul>
+                        {% endif %}
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+  </nav>
+</div>

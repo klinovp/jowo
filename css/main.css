@@ -1,0 +1,39 @@
+/*****************************************************************************/
+/*
+/* Common
+/*
+/*****************************************************************************/
+
+/* Global Reset */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/*****************************************************************************/
+/*
+/* Program table
+/*
+/*****************************************************************************/
+#program td {
+	color: black;
+	padding: 5px;
+	text-align: center;
+}
+
+#program .white {text-align: left; background-color: white !important;}
+#program .day {
+	font-weight: bold;
+	background-color: white !important;
+}
+#program .time {background-color: white !important;}
+#program .chair {text-align: left; background-color: white !important;}
+#program .keynote {background-color: #F4CCCC !important;}
+#program .poster {background-color: #FFF2CC !important;}
+#program .poster-session {background-color: #D9EAD3 !important}
+#program .paper {background-color: #CFE2F3 !important;}
+#program .award {background-color: #EA9999 !important;}
+
+#program.legend {border:0;}
+#program.legend td {border: 0;}
+#program.legend tbody {border: 0;}

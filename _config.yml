@@ -1,0 +1,7 @@
+name: Joint Ontology Workshops
+url: http://klinovp.github.io/jowo
+markdown: redcarpet
+highligther: pygments
+safe: true
+encoding: UTF-8
+exclude: []

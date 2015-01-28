@@ -1,0 +1,15 @@
+-
+  label: Home
+  path: /
+- 
+  label: News
+  path: /news/
+-
+  label: Calls
+  path: /calls/
+- 
+  label: Organization
+  path: /organization/
+-
+  label: Contacts
+  path: /contacts/
