@@ -3,7 +3,7 @@ layout: frontpage
 title: Welcome
 ---
 
-p=. The Joint Ontology Workshops at the: "International Join Conference on Artificial Intelligence":http://ijcai-15.org/
+p=. The Joint Ontology Workshops at the "International Join Conference on Artificial Intelligence":http://ijcai-15.org/
 
 p=. IJCAI dates: July 25 -- July 31, 2015
 
