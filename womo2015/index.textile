@@ -1,0 +1,73 @@
+---
+layout: page
+title: WoMO 2015
+---
+
+p=. *Ninth "International Workshop on Modular Ontologies":http://iaoa.org/womo/ (WoMO 2015)*
+
+p<. Modularity, studied for years in software engineering, allows mechanisms for easy and flexible reuse, generalization, structuring, maintenance, design patterns, and comprehension. Modularity is an important enabling technology for knowledge repositories and collaborative knowledge development environments. In formal and applied ontology, modularity is central to reducing the complexity of designing and understanding ontologies, and to facilitating ontology verification, reasoning, maintenance and integration.
+
+p<. Recent research on ontology modularity shows substantial progress in foundations of modularity, techniques of modularization and modular development, distributed reasoning and empirical evaluation. These results provide a solid foundation and exciting prospects for further research and development.
+
+p<. The workshop continues a series of successful events that have been an excellent venue for practitioners and researchers to discuss latest and current work on theoretical and practical aspects of modularity in ontologies, bringing together an interdisciplinary group of researchers from various subareas of AI spanning knowledge representation, reasoning and logic (description logics, first-order logics, context-based reasoning, rule-based reasoning, automated theorem proving) and web and knowledge-based repositories and information systems (ontologies, semantic web, linked data) as well as researchers from philosophy, logic, cognitive science, and linguistics and from various application domains.
+
+h3. Topics
+
+p<. Include but are not limited to:
+
+* *Foundational aspects of modularity*: definition, representation, structure, design patterns, granularity;
+* *Logical aspects*: modular (ontology) languages; reconciling inconsistencies across modules; formal structuring of modules; heterogeneity; hybrid theories; intertheory relations (conservativity, interpretability, strong equivalence, inseparability, etc.).
+* *Algorithmic & heuristic approaches*: distributed and incremental reasoning; modularization and module extraction techniques; reasoning complexity; system descriptions.
+* *Methodological issues* as they occur throughout the ontology lifecycle: publishing/sharing, linking, maintenance, reuse of modules.
+* *Knowledge and ontology repositories*: ontology development environments; ontology editors; ontology mapping languages and tools.
+* *Analysis and evaluation*: case studies or other analyses of modularizations; quantitative and qualitative ways to measure adequacy of a modularization; comparison of modularizations with respect to philosophical, logical, reasoning, cognitive, or social aspects.
+* *Work on closely related approaches*: ontology content patterns; ontology versioning/evolution; context-based reasoning; and modularity issues as they arise in Big Data and Linked Data.
+* *Applications*: semantic web; life sciences; earth sciences; bio-ontologies; natural language processing; space and time; ambient intelligence; social intelligence; technology and engineering.
+
+h3. Paper submission guidelines
+
+p<. Submissions can be long papers (up to 8 pages) or short papers (up to 4 pages), formatted using the "AAAI style":http://www.aaai.org/Publications/Author/author.php, submitted in PDF format no later than the submission deadline.
+All submission are handled through "Easychair":http://www.easychair.org/conferences/?conf=jowo15. Use the WoMO track for your submission.
+
+p<. All submissions will be peer-reviewed by members of the program committee of the individual workshops. Accepted papers will be made available in the form of a joint workshop proceedings.
+
+h3. Important dates
+
+Paper Submission:  April 27, 2015
+Notification:  May 20, 2015
+Camera ready: May 30, 2015
+Workshop: July, 2015, date TBA
+
+h3. Organizers
+
+"Torsten Hahmann":http://www.spatial.maine.edu/~torsten/index.shtml
+Assistant Professor, School of Computing and Information Science
+University of Maine, Orono, ME, USA
+"Ken Baclawski":http://www.ccs.neu.edu/home/kenb/
+Associate Professor, College of Computer and Information Science
+Northeastern University, Boston, MA, USA
+"Adila Krisnadhi":http://knoesis.wright.edu/researchers/adila/
+Wright State University, USA
+Universitas Indonesia, Indonesia
+"Pavel Klinov":http://www.uni-ulm.de/en/in/ki/staff/dr-pavel-klinov.html
+Research Fellow, Institute of Artificial Intelligence,
+University of Ulm, Germany
+
+h3. Previous WoMO Workshops
+
+"WoMO 2014":http://womo2014.bio-lark.org/
+The 8th workshop in the series was co-located with the 8th International Conference on Formal Ontology in Information Systems, FOIS 2014. It was held in Rio de Janeiro, September 22-26, 2014.
+"WoMO 2013":http://lat.inf.tu-dresden.de/~dwalther/womo2013/
+The 7th workshop in the series, was co-located with the 12th International Conference on Logic Programming and Nonmonotonic Reasoning, LPNMR-13, Corunna, Spain, September 2013.
+"WoMO 2012":http://www.informatik.uni-bremen.de/~ts/womo2012/WoMO_2012/Home.html
+The 6th workshop in the series, was co-located with the 7th International Conference on Formal Ontology in Information Systems, FOIS 2012, Graz, Austria, July 2012.
+"WoMO 2011":http://www.informatik.uni-bremen.de/~okutz/womo5/
+The 5th workshop in the series, co-located with ESSLLI 2011, Ljubljana, Slovenia (week 2), following an introductory ESSLLI course on notions of modularity in ontologies (week 1).
+"WoMO 2010":http://www.informatik.uni-bremen.de/~okutz/womo4/
+The 4th workshop in the series, co-located with FOIS 2010, Toronto, Canada.
+"WORM 2008":http://dkm.fbk.eu/worm08
+The 3rd workshop in the series, co-located with ESWC 2008, Tenerife, Spain, entitled `Ontologies: Reasoning and Modularity', with a special emphasis on reasoning methods.
+"WoMO 2007":http://webrum.uni-mannheim.de/math/lski/WoMO07
+The 2nd workshop, co-located with K-CAP 2007, Whistler BC, Canada.
+"WoMO 2006":http://www.cild.iastate.edu/events/womo.html
+The 1st workshop on modular ontologies, co-located with ISWC 2006, Athens, Georgia, USA.

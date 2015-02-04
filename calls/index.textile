@@ -1,6 +1,62 @@
 ---
 layout: page
-title: Call for papers
+title: Call for Papers
 ---
 
-h3. Topics
+h2.  Joint Ontology Workshops (JOWO-15)
+
+h2. Episode 1: The Argentine Winter
+
+h3. Buenos Aires, Argentina, July 25-31, 2015 at "IJCAI 2015":http://ijcai-15.org
+                
+bq.      Submission deadline: April 27, 2015
+
+p<. This first edition of the Joint Ontology Workshops (JOWO-15) combines four exciting ontology-centered workshops at IJCAI-15. Together with ontology work presented at IJCAI itself, we will transform Buenos Aires for a week into the largest venue for ontology research of the year.  
+
+p<. JOWO-15 is supported by the International Association for Ontology and its Applications - IAOA. It will feature a series of (shared) invited talks, paper presentations, and discussions spread across four independent full-day workshops run over a period of three days:
+
+h3. "Workshop on Formal Ontologies for Artificial Intelligence (FOfAI)":http://www.loa.istc.cnr.it/fofai
+
+p=. Chairs: Stefano Borgo, Oliver Kutz, and Daniele Porello
+
+p<. FOfAI aims to establish a venue for researchers in AI with a strong interest in applied ontology. In particular, we aim to foster an interdisciplinary discussion and cross-fertilization among a number of communities by proposing a venue to exchange foundational, methodological, and applicative perspectives. The workshop thus encourages submission of articles on both theoretical, computational, and linguistic issues in the use of ontologies in AI as well as the concrete use of non-trivial ontologies in AI systems and applications.
+FOfAI is generously sponsored by the Association for Logic, Language and Information - FoLLI.
+
+h3. "9th Int. Workshop on Modular Ontologies (WoMO 2015)":http://iaoa.org/jowo/womo2015
+
+p=. Chairs: Kenneth Baclawski, Torsten Hahmann, Pavel Klinov, Adila Krisnadhi
+
+p<. This workshop brings together researchers from all subareas of AI and from related disciplines and application domains to discuss latest and current work on theoretical and practical aspects of modularity in ontologies. Topics include modularity as enabling technology for knowledge repositories and collaborative knowledge development environments and as a tool for reducing the complexity of designing and understanding ontologies, and to facilitating ontology verification, reasoning, maintenance and integration. 
+
+
+h3. "1st Workshop on Belief Change and Non-Monotonic Reasoning in Ontologies and Databases":https://ontochange.wordpress.com
+
+p=. chairs: Eduardo Fermé, Thomas Meyer and Renata Wassermann
+
+p<. This workshop will bring together researchers working in the areas of logic-based ontologies, belief change, and database systems, along with researchers working in relevant areas in non-monotonic reasoning, commonsense reasoning, and paraconsistent reasoning. Hence the workshop will facilitate discussions on the application of existing work in belief change, non-monotonic reasoning, commonsense reasoning, and related areas on the one hand, to logic-based ontologies and databases on the other.
+
+
+h3. "Ontologies and logic programming for query answering":http://ontolp.lsis.org/
+
+http://ontolp.lsis.org/
+p=. Chairs: Odile Papini, Marie-Laure Mugnier, Laurent Garcia, Salem Benferhat
+
+p<. The aim of this workshop is to bridge knowledge representation and reasoning in artificial intelligence and web of knowledge communities in order to encourage the emergence of new solutions for reasoning with lightweight ontologies. Particular topics include query answering while taking ontologies into account and 
+non­monotonic reasoning for inconsistency handling and exception handling and expressing default negations in ontologies, with a special interest in logic programming for implementations.
+
+
+h3. Important Dates
+
+Paper Submission:  April 27, 2015
+Notification:  May 20, 2015
+Camera ready: May 30, 2015
+Workshop: July, 2015
+
+h3. Submission Guidelines
+
+p<. Please refer to the individual workshops for detailed lists of topics appropriate for each workshop. Submissions can be long papers (up to 8 pages) or short papers (up to 4 pages), formatted using the "AAAI style":http://www.aaai.org/Publications/Author/author.php, submitted in PDF format no later than the submission deadline.
+
+p<. All submission are handled through "Easychair":http://www.easychair.org/conferences/?conf=jowo15. Use it for submissions to any of the first three workshops, and select the track that corresponds to the workshop most appropriate for your work. For the last workshop “Ontologies and logic programming for query answering”, submissions are handled separately through "https://easychair.org/conferences/?conf=ontolp2015":https://easychair.org/conferences/?conf=ontolp2015
+
+p<. All submissions will be peer-reviewed by members of the program committee of the individual workshops. Accepted papers will be made available in the form of a joint workshop proceedings. For additional publication plans check the individual workshops.
+
