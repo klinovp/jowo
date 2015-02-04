@@ -9,7 +9,7 @@ p=. IJCAI dates: July 25 -- July 31, 2015
 
 p. JOWO 2015 consists of the following workshops:
 
-* "Workshop on Modular Ontologies":http://iaoa.org/womo/ (WoMO)
+* "Workshop on Modular Ontologies":http://iaoa.org/jowo/womo2015 (WoMO)
 * "Formal Ontologies for Artificial Intelligence":http://www.loa.istc.cnr.it/fofai/ (FOfAI)
 * "Ontologies and logic programming for query answering":http://ontolp.lsis.org/
 * "Workshop on Belief Change and Non Monotonic Reasoning in Ontologies and Databases":https://ontochange.wordpress.com/
