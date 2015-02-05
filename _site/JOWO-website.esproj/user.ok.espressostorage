@@ -47,14 +47,6 @@
 			<dict>
 				<key>StateType</key>
 				<string>PreviewTab</string>
-				<key>Title</key>
-				<string>JOWO 2015 | Call for Papers</string>
-				<key>URL</key>
-				<string>http://iaoa.org/jowo/calls/</string>
-			</dict>
-			<dict>
-				<key>StateType</key>
-				<string>PreviewTab</string>
 			</dict>
 		</array>
 	</dict>
