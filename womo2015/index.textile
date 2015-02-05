@@ -53,6 +53,33 @@ Notification:  May 20, 2015
 Camera ready: May 30, 2015
 Workshop: July, 2015, date TBA
 
+h3. Program Committee
+
+* Ana Armas, University of Oxford, UK
+* Eva Blomqvist, Linköping University, SE 
+* Arina Britz, Meraka Institute, CSIR, South Africa
+* David Carral, Wright State University, USA
+* Chiara del Vescovo, BBC Wales, UK
+* Aldo Gangemi, Universite Paris 13-CNRS-Sorbonne Cite, France and ISTC-CNR, Italy
+* Michael Gruninger, University of Toronto, Canada
+* Pascal Hitzler, Wright State University, USA
+* Edward Haeusler, Pontifical Catholic University of Rio de Janeiro, Brazil
+* Agnieszka Ławrynowicz, Poznań University of Technology (PL)
+* Francisco Martin-Recuerda, Universidad Politecnica de Madrid, Spain
+* Till Mossakowski, University of Magdeburg, Germany
+* Adrian Paschke, Freie Universitaet Berlin, Germany
+* Denis Ponomaryov, Institute of Informatics Systems, Russia
+* Alexandre Rademaker, IBM Research, Brazil
+* Thomas Schneider, University of Bremen, Germany
+* Luciano Serafini, Fondazione Bruno Kessler, Italy
+* Barry Smith, National Center for Ontological Research, University of Buffalo, USA
+* Jeffrey Smith, BAE Systems, UK
+* Dmitry Tsarkov, University of Manchester, UK
+* Ivan José Varzinczak, Universidade Federal do Rio de Janeiro, Brazil
+* Marcella Vegetti, Universidad Technologica Nacional, Argentina
+* George Vouros, University of Piraeus, Greece
+* Dirk Walther, TU Dresden, Germany
+
 
 h3. Organizers
 
