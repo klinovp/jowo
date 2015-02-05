@@ -5,24 +5,37 @@ title: WoMO 2015
 
 p=. *Ninth "International Workshop on Modular Ontologies":http://iaoa.org/womo/ (WoMO 2015)*
 
-p<>. Modularity, studied for years in software engineering, allows mechanisms for easy and flexible reuse, generalization, structuring, maintenance, design patterns, and comprehension. Modularity is an important enabling technology for knowledge repositories and collaborative knowledge development environments. In formal and applied ontology, modularity is central to reducing the complexity of designing and understanding ontologies, and to facilitating ontology verification, reasoning, maintenance and integration.
+p<>. Modularity, is an important enabling technology for knowledge repositories and collaborative knowledge development environments. In formal and applied ontology, modularity is central to reducing the complexity of designing and understanding ontologies, and to facilitating ontology verification, reasoning, maintenance and integration.
 
-p<>. Recent research on ontology modularity shows substantial progress in foundations of modularity, techniques of modularization and modular development, distributed reasoning and empirical evaluation. These results provide a solid foundation and exciting prospects for further research and development.
-
-p<>. The workshop continues a series of successful events that have been an excellent venue for practitioners and researchers to discuss latest and current work on theoretical and practical aspects of modularity in ontologies, bringing together an interdisciplinary group of researchers from various subareas of AI spanning knowledge representation, reasoning and logic (description logics, first-order logics, context-based reasoning, rule-based reasoning, automated theorem proving) and web and knowledge-based repositories and information systems (ontologies, semantic web, linked data) as well as researchers from philosophy, logic, cognitive science, and linguistics and from various application domains.
+p<>. This workshop continues a series of successful events that have been an excellent venue for practitioners and researchers to discuss latest and current work on theoretical and practical aspects of modularity in ontologies, bringing together an interdisciplinary crowd of researchers from various subareas of AI spanning knowledge representation, reasoning and logic (description logics, first-order logics, context-based reasoning, rule-based reasoning, automated theorem proving) and web and knowledge-based repositories and information systems (ontologies, semantic web, linked data) as well as researchers from philosophy, logic, cognitive science, and linguistics and from various application domains.
 
 h3. Topics
 
-p<>. Include but are not limited to:
+p<>. Topics of interest to the workshop are modularity in ontologies in the broadest sense. Submissions are welcome irrespective of the ontology language of interest (ranging from informal ontologies such as taxonomies, glossaries, folksonomies, and conceptual models, to formal ontology specified in languages such as RDF(S), OWL, SKOS, first-order logic, Common Logic). Papers may touch on any aspect of modularity, including but not limited to:
 
-* *Foundational aspects of modularity*: definition, representation, structure, design patterns, granularity;
-* *Logical aspects*: modular (ontology) languages; reconciling inconsistencies across modules; formal structuring of modules; heterogeneity; hybrid theories; intertheory relations (conservativity, interpretability, strong equivalence, inseparability, etc.).
-* *Algorithmic & heuristic approaches*: distributed and incremental reasoning; modularization and module extraction techniques; reasoning complexity; system descriptions.
-* *Methodological issues* as they occur throughout the ontology lifecycle: publishing/sharing, linking, maintenance, reuse of modules.
-* *Knowledge and ontology repositories*: ontology development environments; ontology editors; ontology mapping languages and tools.
-* *Analysis and evaluation*: case studies or other analyses of modularizations; quantitative and qualitative ways to measure adequacy of a modularization; comparison of modularizations with respect to philosophical, logical, reasoning, cognitive, or social aspects.
-* *Work on closely related approaches*: ontology content patterns; ontology versioning/evolution; context-based reasoning; and modularity issues as they arise in Big Data and Linked Data.
-* *Applications*: semantic web; life sciences; earth sciences; bio-ontologies; natural language processing; space and time; ambient intelligence; social intelligence; technology and engineering.
+* *Philosophical and cognitive aspects of modularity*;
+* *Theory, algorithms & implementations:*
+** Notions of modularity such as conservative extensions, locality-based modules, reachability modules, etc.
+** Module extraction and decomposition algorithms
+** Logical relations between modules and modular ontology languages
+* *Modularity in reasoning:*
+** Modules for incremental and distributed reasoning
+** Modularity for schema reasoning (e.g. classification) or.data reasoning (e.g. query answering)
+** Modularity and explanations
+** Modularity and context-based reasoning
+* *Modularity in ontology engineering:*
+** Reuse, publishing/sharing, and linking of modules
+** Collaborative ontology engineering, ontology versioning and evolution
+** Knowledge and ontology repositories, libraries
+** Knowledge integration, ontology mapping and alignment
+** Ontology design patterns
+** Visualizations
+* *Modular ontologies in applications:*
+** Case studies and evaluations
+** Issues in particular domains, e.g., life sciences, physical sciences, geosciences, social sciences, etc.
+** End-user applications
+
+p<>. We highly value contributions from all perspectives, including those with a focus on computational, philosophical, cognitive, linguistic, and social aspects. Additionally, contributions that deal with modularity as it arises in specific applications or domains is of interest. We particularly encourage submissions that apply methods beyond classical knowledge representation, such as machine learning and natural language processing approaches, to help further the understanding of modularity.
 
 h3. Paper submission guidelines
 
@@ -30,12 +43,16 @@ p<>. Submissions can be long papers (up to 8 pages) or short papers (up to 4 pag
 
 p<>. All submissions will be peer-reviewed by members of the program committee of the individual workshops. Accepted papers will be made available in the form of a joint workshop proceedings.
 
+p<>. The workshop will be open to all attendants of IJCAI'15 and its other workshops. At least one author of each accepted paper must register for the workshop and present the paper.
+
+
 h3. Important dates
 
 Paper Submission:  April 27, 2015
 Notification:  May 20, 2015
 Camera ready: May 30, 2015
 Workshop: July, 2015, date TBA
+
 
 h3. Organizers
 
