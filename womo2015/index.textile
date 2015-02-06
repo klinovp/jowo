@@ -5,6 +5,8 @@ title: WoMO 2015
 
 p=. *Ninth "International Workshop on Modular Ontologies":http://iaoa.org/womo/ (WoMO 2015)*
 
+Go to:&nbsp;&nbsp;&nbsp;<a href="#topics">Topics</a>&nbsp;&nbsp;&nbsp;<a href="#topics">Dates</a>&nbsp;&nbsp;&nbsp;<a href="#pc">PC</a>
+
 p<>. Modularity, is an important enabling technology for knowledge repositories and collaborative knowledge development environments. In formal and applied ontology, modularity is central to reducing the complexity of designing and understanding ontologies, and to facilitating ontology verification, reasoning, maintenance and integration.
 
 p<>. This workshop continues a series of successful events that have been an excellent venue for practitioners and researchers to discuss latest and current work on theoretical and practical aspects of modularity in ontologies, bringing together an interdisciplinary crowd of researchers from various subareas of AI spanning knowledge representation, reasoning and logic (description logics, first-order logics, context-based reasoning, rule-based reasoning, automated theorem proving) and web and knowledge-based repositories and information systems (ontologies, semantic web, linked data) as well as researchers from philosophy, logic, cognitive science, and linguistics and from various application domains.
@@ -50,12 +52,16 @@ p<>. The workshop will be open to all attendants of IJCAI'15 and its other works
 
 h3. Important dates
 
+<div id='dates'><a name='dates'></a></div>
+
 Paper Submission:  April 27, 2015
 Notification:  May 20, 2015
 Camera ready: May 30, 2015
 Workshop: July, 2015, date TBA
 
 h3. Program Committee
+
+<div id='pc'><a name='pc'></a></div>
 
 * Ana Armas, University of Oxford, UK
 * Eva Blomqvist, Linköping University, SE 
