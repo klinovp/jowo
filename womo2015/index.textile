@@ -3,17 +3,18 @@ layout: page
 title: WoMO 2015
 ---
 
-p=. *Ninth "International Workshop on Modular Ontologies":http://iaoa.org/womo/ (WoMO 2015)*
+<hr>
+Go to:&nbsp;&nbsp;&nbsp;<a href="#topics">Topics</a>&nbsp;&nbsp;&nbsp;<a href="#topics">Dates</a>&nbsp;&nbsp;&nbsp;<a href="#submissions">Submission instructions</a>&nbsp;&nbsp;&nbsp;<a href="#pc">Program Committee</a>&nbsp;&nbsp;&nbsp;<a href="#organizers">Organizers</a>&nbsp;&nbsp;&nbsp;<a href="#previous">Previous editions</a>
+<hr>
 
-Go to:&nbsp;&nbsp;&nbsp;<a href="#topics">Topics</a>&nbsp;&nbsp;&nbsp;<a href="#topics">Dates</a>&nbsp;&nbsp;&nbsp;<a href="#pc">PC</a>
+p=. *Ninth "International Workshop on Modular Ontologies":http://iaoa.org/womo/ (WoMO 2015)*
 
 p<>. Modularity, is an important enabling technology for knowledge repositories and collaborative knowledge development environments. In formal and applied ontology, modularity is central to reducing the complexity of designing and understanding ontologies, and to facilitating ontology verification, reasoning, maintenance and integration.
 
 p<>. This workshop continues a series of successful events that have been an excellent venue for practitioners and researchers to discuss latest and current work on theoretical and practical aspects of modularity in ontologies, bringing together an interdisciplinary crowd of researchers from various subareas of AI spanning knowledge representation, reasoning and logic (description logics, first-order logics, context-based reasoning, rule-based reasoning, automated theorem proving) and web and knowledge-based repositories and information systems (ontologies, semantic web, linked data) as well as researchers from philosophy, logic, cognitive science, and linguistics and from various application domains.
 
-h3. Topics
-
 <div id='topics'><a name='topics'></a></div>
+h3. Topics
 
 p<>. Topics of interest to the workshop are modularity in ontologies in the broadest sense. Submissions are welcome irrespective of the ontology language of interest (ranging from informal ontologies such as taxonomies, glossaries, folksonomies, and conceptual models, to formal ontology specified in languages such as RDF(S), OWL, SKOS, first-order logic, Common Logic). Papers may touch on any aspect of modularity, including but not limited to:
 
@@ -41,6 +42,8 @@ p<>. Topics of interest to the workshop are modularity in ontologies in the broa
 
 p<>. We highly value contributions from all perspectives, including those with a focus on computational, philosophical, cognitive, linguistic, and social aspects. Additionally, contributions that deal with modularity as it arises in specific applications or domains is of interest. We particularly encourage submissions that apply methods beyond classical knowledge representation, such as machine learning and natural language processing approaches, to help further the understanding of modularity.
 
+<div id='submissions'><a name='submissions'></a></div>
+
 h3. Paper submission guidelines
 
 p<>. Submissions can be long papers (up to 8 pages) or short papers (up to 4 pages), formatted using the "AAAI style":http://www.aaai.org/Publications/Author/author.php, submitted in PDF format no later than the submission deadline. All submission are handled through "Easychair":http://www.easychair.org/conferences/?conf=jowo15. Use the WoMO track for your submission.
@@ -50,18 +53,18 @@ p<>. All submissions will be peer-reviewed by members of the program committee o
 p<>. The workshop will be open to all attendants of IJCAI'15 and its other workshops. At least one author of each accepted paper must register for the workshop and present the paper.
 
 
-h3. Important dates
-
 <div id='dates'><a name='dates'></a></div>
+
+h3. Important dates
 
 Paper Submission:  April 27, 2015
 Notification:  May 20, 2015
 Camera ready: May 30, 2015
 Workshop: July, 2015, date TBA
 
-h3. Program Committee
-
 <div id='pc'><a name='pc'></a></div>
+
+h3. Program Committee
 
 * Ana Armas, University of Oxford, UK
 * Eva Blomqvist, Linköping University, SE 
@@ -89,6 +92,8 @@ h3. Program Committee
 * Dirk Walther, TU Dresden, Germany
 
 
+<div id='organizers'><a name='organizers'></a></div>
+
 h3. Organizers
 
 "Torsten Hahmann":http://www.spatial.maine.edu/~torsten/index.shtml
@@ -103,6 +108,8 @@ Universitas Indonesia, Indonesia
 "Pavel Klinov":http://www.uni-ulm.de/en/in/ki/staff/dr-pavel-klinov.html
 Research Fellow, Institute of Artificial Intelligence,
 University of Ulm, Germany
+
+<div id='previous'><a name='previous'></a></div>
 
 h3. Previous WoMO Workshops
 
