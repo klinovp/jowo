@@ -4,7 +4,13 @@ title: WoMO 2015
 ---
 
 <hr>
-Go to:&nbsp;&nbsp;&nbsp;<a href="#topics">Topics</a>&nbsp;&nbsp;&nbsp;<a href="#topics">Dates</a>&nbsp;&nbsp;&nbsp;<a href="#submissions">Submission instructions</a>&nbsp;&nbsp;&nbsp;<a href="#pc">Program Committee</a>&nbsp;&nbsp;&nbsp;<a href="#organizers">Organizers</a>&nbsp;&nbsp;&nbsp;<a href="#previous">Previous editions</a>
+Go to:&nbsp;&nbsp;&nbsp;
+<a href="#topics">Topics</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#topics">Dates</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#submissions">Submission instructions</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#pc">Program Committee</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#organizers">Organizers</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#previous">Previous editions</a>
 <hr>
 
 p=. *Ninth "International Workshop on Modular Ontologies":http://iaoa.org/womo/ (WoMO 2015)*
