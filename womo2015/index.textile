@@ -11,6 +11,8 @@ p<>. This workshop continues a series of successful events that have been an exc
 
 h3. Topics
 
+<div id='topics'><a name='topics'></a></div>
+
 p<>. Topics of interest to the workshop are modularity in ontologies in the broadest sense. Submissions are welcome irrespective of the ontology language of interest (ranging from informal ontologies such as taxonomies, glossaries, folksonomies, and conceptual models, to formal ontology specified in languages such as RDF(S), OWL, SKOS, first-order logic, Common Logic). Papers may touch on any aspect of modularity, including but not limited to:
 
 * *Philosophical and cognitive aspects of modularity*;
