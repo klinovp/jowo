@@ -3,12 +3,12 @@ layout: page
 title: WoMO 2015
 ---
 
-p=. *Ninth "International Workshop on Modular Ontologies":http://iaoa.org/womo/ (WoMO 2015)*
-<br>
 <hr>
 p=. <a href="#topics">Topics</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#topics">Dates</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#submissions">Submission instructions</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#pc">Program Committee</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#organizers">Organizers</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#previous">Previous editions</a>
 <hr>
 <br>
+p=. *Ninth "International Workshop on Modular Ontologies":http://iaoa.org/womo/ (WoMO 2015)*
+
 p<>. Modularity, is an important enabling technology for knowledge repositories and collaborative knowledge development environments. In formal and applied ontology, modularity is central to reducing the complexity of designing and understanding ontologies, and to facilitating ontology verification, reasoning, maintenance and integration.
 
 p<>. This workshop continues a series of successful events that have been an excellent venue for practitioners and researchers to discuss latest and current work on theoretical and practical aspects of modularity in ontologies, bringing together an interdisciplinary crowd of researchers from various subareas of AI spanning knowledge representation, reasoning and logic (description logics, first-order logics, context-based reasoning, rule-based reasoning, automated theorem proving) and web and knowledge-based repositories and information systems (ontologies, semantic web, linked data) as well as researchers from philosophy, logic, cognitive science, and linguistics and from various application domains.
