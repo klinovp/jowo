@@ -4,25 +4,21 @@ title: Joint Organising Committee
 ---
 
 p<>. 
-Torsten Hahmann, University of Maine, USA
-Ken Baclawski, Northeastern University, USA
-Adila Krisnadhi, Wright State University, USA;
-Universitas Indonesia, Indonesia
-Pavel Klinov, University of Ulm, Germany
+*Torsten Hahmann*, University of Maine, USA
+*Ken Baclawski*, Northeastern University, USA
+*Adila Krisnadhi*, Wright State University, USA; Universitas Indonesia, Indonesia
+*Pavel Klinov*, University of Ulm, Germany
 
-Stefano Borgo, Institute of Cognitive Sciences and Technologies
-CNR, Trento, Italy
-Oliver Kutz, Research Centre for Knowledge and Data (KRDB)
-Free University of Bozen-Bolzano, Italy
-Daniele Porello, Institute of Cognitive Sciences and Technologies
-CNR, Trento, Italy
+*Stefano Borgo*, CNR, Trento, Italy
+*Oliver Kutz*, Free University of Bozen-Bolzano, Italy
+*Daniele Porello*, CNR, Trento, Italy
 
-Odile Papini, Aix Marseille University, LSIS, France
-Salem Benferhat, University of Artois, CRIL France.
-Laurent Garcia, University of Angers, LERIA, France.
-Marie-Laure Mugnier, University of Montpellier 2, LIRMM, France.
+*Odile Papini*, Aix Marseille University, LSIS, France
+*Salem Benferhat*, University of Artois, CRIL France.
+*Laurent Garcia*, University of Angers, LERIA, France.
+*Marie-Laure Mugnier*, University of Montpellier 2, LIRMM, France.
 
-Eduardo Fermé, University of Madeira, Portugal
-Tommie Meyer, CSIR, Meraka Institute, South Africa
-Renata Wassermann, University of São Paulo, Brazil
+*Eduardo Fermé*, University of Madeira, Portugal
+*Tommie Meyer*, CSIR, Meraka Institute, South Africa
+*Renata Wassermann*, University of São Paulo, Brazil
 

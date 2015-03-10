@@ -1,7 +1,18 @@
 ---
 layout: page
-title: Contacts
+title: News for JOWO
 ---
 
-p<>. Under development
+p<>. 
+
+* *March 2015* Second CFP is send out.
+
+* *Feb 2015* FOfAI announces a special issue of Applied Ontology following the workshop.
+
+* *Feb 2015* First CFP has been sent out.
+
+* *Jan 2015* The workshop 'Formal Ontologies for Artificial Intelligence' (FOfAI) receives generous funding from the Association for Logic, Language and Computation (FoLLI) for an invited speaker. 
+ 
+* *Jan 2015* Four ontology workshops join up to organise the first Joint Ontology Workshops event - JOWO 2015. 
+
 

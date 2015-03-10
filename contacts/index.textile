@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contacts
+title: Contact
 ---
 
-p<>. Under development
+p<>. For inquiries send us "an email":mailto:jowo.steering@gmail.com
 
