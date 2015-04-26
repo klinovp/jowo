@@ -9,7 +9,7 @@ h2. Episode 1: The Argentine Winter
 
 h3. Buenos Aires, Argentina, July 25-31, 2015 at "IJCAI 2015":http://ijcai-15.org
                 
-bq.      Submission deadline: April 27, 2015
+bq.      Submission deadline: -April 27, 2015- *extended to May 10, 2015*
 
 p<>. This first edition of the Joint Ontology Workshops (JOWO-15) combines four exciting ontology-centered workshops at IJCAI-15. Together with ontology work presented at IJCAI itself, we will transform Buenos Aires for a week into the largest venue for ontology research of the year.  
 
