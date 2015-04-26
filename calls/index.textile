@@ -46,7 +46,7 @@ non­monotonic reasoning for inconsistency handling and exception handling and e
 
 h3. Important Dates
 
-Paper Submission:  April 27, 2015
+Paper Submission:  -April 27, 2015- *extended to May 10, 2015*
 Notification:  May 20, 2015
 Camera ready: May 30, 2015
 Workshop: July, 2015
