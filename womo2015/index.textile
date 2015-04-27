@@ -4,7 +4,7 @@ title: WoMO 2015
 ---
 
 <hr>
-p=. <a href="#topics">Topics</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#topics">Dates</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#submissions">Submission instructions</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#pc">Program Committee</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#organizers">Organizers</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#previous">Previous editions</a>
+p=. <a href="#topics">Topics</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#dates">Dates</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#submissions">Submission instructions</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#pc">Program Committee</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#organizers">Organizers</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#previous">Previous editions</a>
 <hr>
 
 h3=. *Ninth "International Workshop on Modular Ontologies":http://iaoa.org/womo/ (WoMO 2015)*
@@ -59,7 +59,7 @@ p<>. The workshop will be open to all attendants of IJCAI'15 and its other works
 
 h3. Important dates
 
-Paper Submission:  April 27, 2015
+Paper Submission: -April 27, 2015- *extended to May 10, 2015*
 Notification:  May 20, 2015
 Camera ready: May 30, 2015
 Workshop: July, 2015, date TBA
