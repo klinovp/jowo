@@ -3,7 +3,10 @@ layout: page
 title: News for JOWO
 ---
 
-p<>. 
+
+* *April 24* Submission deadline for all JOWO workshops extended to May 10.
+
+* *April 2015* Diego Calvanese and Luciano Serafini to give keynotes at FOfAI.
 
 * *March 2015* Second CFP is send out.
 
