@@ -92,6 +92,7 @@ h3. Program Committee
 * Marcella Vegetti, Universidad Technologica Nacional, Argentina
 * George Vouros, University of Piraeus, Greece
 * Dirk Walther, TU Dresden, Germany
+* Marco Schorlemmer, Artificial Intelligence Research Institute, IIIA-CSIC, Spain
 
 
 <div id='organizers'><a name='organizers'></a></div>
