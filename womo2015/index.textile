@@ -4,7 +4,7 @@ title: WoMO 2015
 ---
 
 <hr>
-p=. <a href="#topics">Topics</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#dates">Dates</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#submissions">Submission instructions</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#pc">Program Committee</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#organizers">Organizers</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#previous">Previous editions</a>
+p=. <a href="#topics">Topics</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#papers">Accepted papers</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#pc">Program Committee</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#organizers">Organizers</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#previous">Previous editions</a>
 <hr>
 
 h3=. *Ninth "International Workshop on Modular Ontologies":http://iaoa.org/womo/ (WoMO 2015)*
@@ -44,16 +44,15 @@ p<>. Topics of interest to the workshop are modularity in ontologies in the broa
 
 p<>. We highly value contributions from all perspectives, including those with a focus on computational, philosophical, cognitive, linguistic, and social aspects. Additionally, contributions that deal with modularity as it arises in specific applications or domains is of interest. We particularly encourage submissions that apply methods beyond classical knowledge representation, such as machine learning and natural language processing approaches, to help further the understanding of modularity.
 
-<div id='submissions'><a name='submissions'></a></div>
+<div id='papers'><a name='papers'></a></div>
 
-h3. Paper submission guidelines
+h3. Accepted papers
 
-p<>. Submissions can be long papers (up to 8 pages) or short papers (up to 4 pages), formatted using the "AAAI style":http://www.aaai.org/Publications/Author/author.php, submitted in PDF format no later than the submission deadline. All submission are handled through "Easychair":http://www.easychair.org/conferences/?conf=jowo15. Use the WoMO track for your submission.
-
-p<>. All submissions will be peer-reviewed by members of the program committee of the individual workshops. Accepted papers will be made available in the form of a joint workshop proceedings.
-
-p<>. The workshop will be open to all attendants of IJCAI'15 and its other workshops. At least one author of each accepted paper must register for the workshop and present the paper.
-
+* Jose Martin Lozano Aparicio, Joel Luis Carbonera and Mara Abel:	"A novel approach for extracting well-founded ontology views"
+* Filipe Polizel, Sara Casare and Jaime Sichman:	"OntoBacen: a modular ontology for risk management in the Brazilian financial system"
+* Rogelio Nazar and Irene Renau:	"Modularity in automatic taxonomy population: a view from linguistics"
+* Stefano Borgo:	"Towards ontology composition from cognitive libraries"
+* Germán Braun, Laura Cecchi and Pablo Fillottrani:	"Integrating graphical support with reasoning in a methodology for ontology evolution"
 
 <div id='dates'><a name='dates'></a></div>
 
