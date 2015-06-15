@@ -50,7 +50,7 @@ h3. Accepted papers
 
 * Jose Martin Lozano Aparicio, Joel Luis Carbonera and Mara Abel:	"A novel approach for extracting well-founded ontology views"
 * Filipe Polizel, Sara Casare and Jaime Sichman:	"OntoBacen: a modular ontology for risk management in the Brazilian financial system"
-* Rogelio Nazar and Irene Renau:	"Modularity in automatic taxonomy population: a view from linguistics"
+* Rogelio Nazar and Irene Renau:	"Ontology population using corpus statistics"
 * Stefano Borgo:	"Towards ontology composition from cognitive libraries"
 * Germán Braun, Laura Cecchi and Pablo Fillottrani:	"Integrating graphical support with reasoning in a methodology for ontology evolution"
 
