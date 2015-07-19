@@ -1,0 +1,74 @@
+---
+layout: page
+title: JOWO 2015 Program
+---
+
+table(#program).
+|\2(day). Day I, July 25, ONTOLP |
+|(opening). 08:45-09:00|(opening). Opening |
+| 09:00-10:30|(keynote). Keynote ONTOLP: TBA |
+|10:30-11:00|Coffee break|
+|\2(chair). Chair: TBA |
+|/4(time). 11:00-12:45|(paper).  |
+|(paper).  |
+|(paper).  |
+|(paper).  |
+|12:45-13:45|Lunch break|
+|\2(chair). Chair: TBA |
+|/4(time). 13:45-15:30|(paper). |
+|(paper). |
+|(paper). |
+|(paper). |
+|15:30-16:00|Coffee break|
+|\2(chair). Chair: TBD|
+|/4(time). 16:00-17:45|(paper). |
+|(paper). |
+|(paper). |
+|(paper). |
+|(time). From 19:00 | Reception |
+|\2(day). Day II, July 26, OntoChange, WoMO, FOfAI |
+|(opening). 08:45-09:00|(opening). Opening |
+|/2(time). 09:00-10:30|(keynote). Keynote OntoChange: Tommie Meyer (University of Cape Town, South Africa) |
+|(paper). Julien Corman, Nathalie Aussenac-Gilles and Laure Vieu: “Prioritized Base Debugging in Description Logics” |
+|10:30-11:00|Coffee break|
+|\2(chair). Chair: TBA |
+|/3(time). 11:00-12:45|(paper). Madalina Croitoru and Ricardo Oscar Rodriguez: “Using Kernel Consolidation for Query Answering in Inconsistent OBDA” |
+|(paper). Tobias Kaminski, Matthias Knorr and Joao Leite: “Well-founded Paraconsistent Semantics for Hybrid Theories composed of Rules and Ontologies” |
+|(paper). Rafael Peñaloza and Aparna Saisree Thuluva: “Iterative Ontology Updates Using Context Labels” |
+|12:45-13:45|Lunch break|
+|\2(chair). Chair: TBA |
+|/2(time). 13:45-15:30|(keynote). Keynote WoMO: Carsten Lutz (University of Bremen, Germany): 
+“Complexity and Expressive Power of Ontology-Based Data Access” |
+|(paper). Stefano Borgo: “Towards ontology composition from cognitive libraries” |
+|15:30-16:00|Coffee break|
+|\2(chair). Chair: TBD|
+|/4(time). 16:00-17:45|(paper). Jose Martin Lozano Aparicio, Joel Luis Carbonera and Mara Abel: “A novel approach for extracting well-founded ontology views” |
+|(paper). Filipe Polizel, Sara Casare and Jaime Sichman: “OntoBacen: a modular ontology for risk management in the Brazilian financial system” |
+|(paper). Rogelio Nazar and Irene Renau: “Ontology population using corpus statistics” |
+|(paper). Germán Braun, Laura Cecchi and Pablo Fillottrani: “Integrating graphical support with reasoning in a methodology for ontology evolution” |
+|From 19:00 | Workshop dinner |
+|\2(day). Day III, July 27, FOfAI |
+|(opening). 08:45-09:00|(opening). Opening |
+|\2(chair). Chair: TBA |
+|/3(time). 09:00-10:30|(paper). Tim Fernando: "Two perspectives on change and institutions" |
+|(paper). Ayako Nakamura, Koji Mineshima and Daisuke Bekki. 
+Towards Modeling Natural Language Inferences with Part-Whole Relations using Formal Ontology and Lexical Semantics |
+|(paper). Ayako Nakamura, Koji Mineshima and Daisuke Bekki. 
+Towards Modeling Natural Language Inferences with Part-Whole Relations using Formal Ontology and Lexical Semantics |
+| 10:30-11:00|Coffee break|
+|\2(chair). Chair: TBA |
+|/3(time). 11:00-12:45|(paper). Rajesh Tavva and Navjyoti Singh: "Generative Ontology of Vaisesika" |
+|(paper). Pawel Garbacz: "Two Demarcation Problems In Ontology" |
+|(paper). Giancarlo Guizzardi, João Paulo Andrade Almeida, Nicola Guarino and Victorio Carvalho: "Towards an Ontological Analysis of Powertypes" |
+| 12:45-13:45|Lunch break|
+|\2(chair). Chair: TBA |
+|/2(time). 13:45-15:30|(keynote). Keynote FOfAI:
+Diego Calvanese (Free University of Bozen-Bolzano, Italy) |
+|(paper). Emily Leblanc, Duc Nguyen, Marcello Balduccini, William Regli, Joseph Kopena and Thomas Wambold: "Military Ontologies for Information Dissemination at the Tactical Edge" |
+| 15:30-16:00|Coffee break|
+|\2(chair). Chair: TBD|
+|/3(time). 16:00-17:45|(paper).  JOWO Panel |
+|(paper). Topics: |
+|(paper). Carsten Lutz, Tommie Meyer, Diego Calvanese |
+| From 19:00 | End |
+

@@ -24,16 +24,13 @@
 #program .white {text-align: left; background-color: white !important;}
 #program .day {
 	font-weight: bold;
-	background-color: white !important;
+  color: white;
+	background-color: #E42500 !important;
 }
 #program .time {background-color: white !important;}
-#program .chair {text-align: left; background-color: white !important;}
-#program .keynote {background-color: #F4CCCC !important;}
-#program .poster {background-color: #FFF2CC !important;}
-#program .poster-session {background-color: #D9EAD3 !important}
-#program .paper {background-color: #CFE2F3 !important;}
-#program .award {background-color: #EA9999 !important;}
+#program .opening {text-align: center; background-color: #e0edd4 !important;}
+#program .chair {text-align: left; background-color: #e0edd4 !important;}
+#program .keynote {background-color: white !important; font-weight: bold; color: #e94000;}
+#program .paper {background-color: white !important;}
 
-#program.legend {border:0;}
-#program.legend td {border: 0;}
-#program.legend tbody {border: 0;}
+
