@@ -6,7 +6,7 @@ title: JOWO 2015 Program
 table(#program).
 |\2(day). Day I, July 25, ONTOLP |
 |(opening). 08:45-09:00|(opening). Opening |
-| 09:00-10:30|(keynote). Keynote ONTOLP: TBA |
+|(time). 09:00-10:30|(keynote). Keynote ONTOLP: TBA |
 |10:30-11:00|Coffee break|
 |\2(chair). Chair: TBA |
 |/4(time). 11:00-12:45|(paper).  |
@@ -25,7 +25,7 @@ table(#program).
 |(paper). |
 |(paper). |
 |(paper). |
-|(time). From 19:00 | Reception |
+| From 19:00 | Reception |
 |\2(day). Day II, July 26, OntoChange, WoMO, FOfAI |
 |(opening). 08:45-09:00|(opening). Opening |
 |/2(time). 09:00-10:30|(keynote). Keynote OntoChange: Tommie Meyer (University of Cape Town, South Africa) |
