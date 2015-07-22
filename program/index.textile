@@ -5,27 +5,28 @@ title: JOWO 2015 Program
 
 table(#program).
 |\2(day). Day I, July 25, ONTOLP |
-|(opening). 08:45-09:00|(opening). Opening |
-|(time). 09:00-10:30|(keynote). Keynote ONTOLP: TBA |
+|(opening). 08:30-08:45|(opening). Opening |
+|(time). 08:45-09:40|(keynote). Keynote ONTOLP: Steven Schockaert (Cardiff University): Extending Answer Set Programming using Generalized Possibilistic Logic |
+|\2(chair).  Logic Programming I |
+|/2(time). 09:40-10:30 |(paper). Riccardo Zese, Elena Bellodi, Evelina Lamma, Fabrizio Riguzzi: Logic Programming Techniques for Reasoning with Probabilistic Ontologies |
+|(paper).  Fabien Garreau, Laurent Garcia, Claire Lefèvre, Igor Stéphan. exists-ASP |
 |10:30-11:00|Coffee break|
-|\2(chair). Chair: TBA |
-|/4(time). 11:00-12:45|(paper).  |
-|(paper).  |
-|(paper).  |
-|(paper).  |
+|\2(chair).  Description Logic |
+|/3(time). 11:00-12:15|(paper). Veronica Dahl, Sergio Tessaris, Thom Fruehwirth: 
+Imperfect Querying through Womb Grammars plus Ontologies |
+|(paper). Roberto Confalonieri, Manfred Eppe, Marco Schorlemmer, Oliver Kutz, Rafael Peñaloza, Enric Plaza: Upward Refinement for Conceptual Blending in Description Logic: An ASP-based Approach and Case Study in EL++ |
+|(paper). Nuno Costa, Matthias Knorr, Joao Leite: Extending NoHR for OWL 2 QL |
 |12:45-13:45|Lunch break|
-|\2(chair). Chair: TBA |
-|/4(time). 13:45-15:30|(paper). |
-|(paper). |
-|(paper). |
-|(paper). |
+|(time). 13:45 -14:40 |(keynote). Invited talk: Andreas Pieris: From Classical to Consistent Query Answering under Existential Rules |
+|\2(chair).  Logic Programming II |
+|/2(time). 14:40-15:30 |(paper). Cristina Feier, Thomas Eiter: Reasoning with Forest Logic Programs Using Fully Enriched Automata |
+|(paper). Ricardo Gonçalves. Combining rules and ontologies via parametrized logic programming |
 |15:30-16:00|Coffee break|
-|\2(chair). Chair: TBD|
-|/4(time). 16:00-17:45|(paper). |
-|(paper). |
-|(paper). |
-|(paper). |
-| From 19:00 | Reception |
+|\2(chair).  Inconsistency Handling |
+|/3(time). 16:00-17:30|(paper). Cristhian Ariel David Deagustini, Maria Vanina Martinez, Marcelo A. Falappa, Guillermo Simari: On the Influence of Incoherence in Inconsistency-tolerant Semantics for Datalog+- |
+|(paper). Badrinath Jayakumar, Rajshekhar Sunderraman: Paraconsistent Relational Model: A Quasi-Classic Logic Approach |
+|(paper). Zied Bouraoui, Salem Benferhat, Sylvain Lagrue, Julien Rossit: Merging Incommensurable Possibilistic DL-Lite Assertional Bases |
+| 17:15-17:45 | Concluding discussion |
 |\2(day). Day II, July 26, OntoChange, WoMO, FOfAI |
 |(opening). 08:45-09:00|(opening). Opening |
 |/2(time). 09:00-10:30|(keynote). Keynote OntoChange: Tommie Meyer (University of Cape Town, South Africa) |
@@ -71,4 +72,3 @@ Diego Calvanese (Free University of Bozen-Bolzano, Italy) |
 |(paper). Topics: |
 |(paper). Carsten Lutz, Tommie Meyer, Diego Calvanese |
 | From 19:00 | End |
-
