@@ -29,7 +29,7 @@ Imperfect Querying through Womb Grammars plus Ontologies |
 | 17:15-17:45 | Concluding discussion |
 |\2(day). Day II, July 26, OntoChange, WoMO, FOfAI |
 |(opening). 08:45-09:00|(opening). Opening |
-|/2(time). 09:00-10:30|(keynote). Keynote OntoChange: Tommie Meyer (University of Cape Town, South Africa) |
+|/2(time). 09:00-10:30|(keynote). Keynote OntoChange / FOfAI: Tommie Meyer (University of Cape Town, South Africa) |
 |(paper). Julien Corman, Nathalie Aussenac-Gilles and Laure Vieu: “Prioritized Base Debugging in Description Logics” |
 |10:30-11:00|Coffee break|
 |\2(chair). Chair: TBA |
