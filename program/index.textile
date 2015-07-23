@@ -54,8 +54,8 @@ Imperfect Querying through Womb Grammars plus Ontologies |
 |/3(time). 09:00-10:30|(paper). Tim Fernando: "Two perspectives on change and institutions" |
 |(paper). Ayako Nakamura, Koji Mineshima and Daisuke Bekki. 
 Towards Modeling Natural Language Inferences with Part-Whole Relations using Formal Ontology and Lexical Semantics |
-|(paper). Ayako Nakamura, Koji Mineshima and Daisuke Bekki. 
-Towards Modeling Natural Language Inferences with Part-Whole Relations using Formal Ontology and Lexical Semantics |
+|(paper). Daniel de Leng and Fredrik Heintz. 
+Ontology-Based Introspection in Support of Stream Reasoning |
 | 10:30-11:00|Coffee break|
 |\2(chair). Chair: TBA |
 |/3(time). 11:00-12:45|(paper). Rajesh Tavva and Navjyoti Singh: "Generative Ontology of Vaisesika" |
