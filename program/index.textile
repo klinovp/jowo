@@ -70,5 +70,5 @@ Diego Calvanese (Free University of Bozen-Bolzano, Italy) |
 |\2(chair). Chair: TBD|
 |/3(time). 16:00-17:45|(paper).  JOWO Panel |
 |(paper). Topics: |
-|(paper). Carsten Lutz, Tommie Meyer, Diego Calvanese |
+|(paper). Carsten Lutz, Tommie Meyer, Diego Calvanese, Riichiro Mizoguchi |
 | From 19:00 | End |
