@@ -2,11 +2,11 @@
 layout: page
 title: News for JOWO
 ---
-
+* *July 20* Entire 3 day JOWO program now online including Keynotes by Diego Calvanese, Carsten Lutz, Tommie Meyer, Andreas Pieris, and Steven Schockaert. 
 
 * *April 24* Submission deadline for all JOWO workshops extended to May 10.
 
-* *April 2015* Diego Calvanese and Luciano Serafini to give keynotes at FOfAI.
+* *April 2015* Diego Calvanese and Tommie Meyer to give keynotes at FOfAI.
 
 * *March 2015* Second CFP is send out.
 
