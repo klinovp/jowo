@@ -70,5 +70,5 @@ Diego Calvanese (Free University of Bozen-Bolzano, Italy) |
 |\2(chair). Chair: TBD|
 |/3(time). 16:00-17:45|(paper).  JOWO Panel |
 |(paper). Topic: The future of ontology-based semantic technologies in AI - is there one? |
-|(paper). Tommie Meyer, Diego Calvanese, Riichiro Mizoguchi |
+|(paper). Tommie Meyer, Diego Calvanese, Odile Papini, Riichiro Mizoguchi, Stefano Borgo |
 | From 19:00 | End |
